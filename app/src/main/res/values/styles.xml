@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.ListViewApp.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+
+        <item name="android:textColorHint">@color/purple_500</item>
+        <item name="hintTextColor">@color/purple_500</item>
+        <item name="helperTextTextColor">@color/purple_500</item>
+
+
+    </style>
+
+
+</resources>
